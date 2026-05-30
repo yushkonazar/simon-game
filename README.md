@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Screenshot](screenshot.png)
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/75805f12-e318-4aa9-9374-fe7cf9b0b710" />
 
 </div>
 
