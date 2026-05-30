@@ -1,4 +1,4 @@
-> 🇺🇦 [Читати українською](README.uk.md)
+> [Читати українською](README.uk.md)
 
 # Simon Game
 
